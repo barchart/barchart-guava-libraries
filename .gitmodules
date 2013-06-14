@@ -1,0 +1,7 @@
+#
+# 
+#
+[submodule "google"]
+	path = google
+	url = https://code.google.com/p/guava-libraries/
+	update = rebase
